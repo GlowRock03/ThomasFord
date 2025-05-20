@@ -1,0 +1,8 @@
+-name
+-school
+-quote?
+-about me
+-pfp
+-expertise
+-projects
+-contact me
